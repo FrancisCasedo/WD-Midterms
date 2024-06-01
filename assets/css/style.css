@@ -33,11 +33,11 @@
     z-index: 1;
     width: 250px;
     height: 150px;
-    margin-left: 80px;
+    margin-left: 60px;
     display: flex;
     align-self: flex-end;
     justify-self: center;
-    margin-right: 80px;
+    margin-right: 60px;
 }
 
 
